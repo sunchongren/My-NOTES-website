@@ -1,6 +1,6 @@
 # My-NOTES-website
 
-This is a note website created by Chongren Sun
+This is a note website.
 
 You can use it as a personal note taker website by craeting an account with your first name and email.
 
