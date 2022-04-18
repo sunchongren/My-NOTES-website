@@ -1,3 +1,5 @@
-flask
-json
-werkzeug
+Flask==1.1.2
+Flask_Login==0.6.0
+Flask_SQLAlchemy==2.5.1
+SQLAlchemy==1.4.22
+Werkzeug==2.0.2
